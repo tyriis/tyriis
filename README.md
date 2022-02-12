@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 
-<a href="https://github-readme-stats.vercel.app/api?username=tyriis&show_icons=true&theme=codeSTACKr&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tyriis&show_icons=true&theme=codeSTACKr&count_private=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=tyriis&show_icons=true&theme=ayu-mirage&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tyriis&show_icons=true&theme=ayu-mirage&count_private=true" />
 </a>
 
 <!--
