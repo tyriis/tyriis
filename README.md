@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 
 <a href="https://github-stats-extended.vercel.app/api?username=tyriis&show_icons=true&theme=ayu-mirage&count_private=true">
-  <img align="center" src="github-stats-extended.vercel.app/api?username=tyriis&show_icons=true&theme=ayu-mirage&count_private=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=tyriis&show_icons=true&theme=ayu-mirage&count_private=true" />
 </a>
 
 <!--
